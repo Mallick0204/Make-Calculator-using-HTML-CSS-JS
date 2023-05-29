@@ -1,1 +1,1 @@
-# Make-Calculator-using-HTML-CSS-JS
+# Made-Calculator-using-HTML-CSS-JS
